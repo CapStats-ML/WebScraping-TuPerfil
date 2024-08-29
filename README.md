@@ -1,4 +1,4 @@
-# WebScraping-TuPerfil
+# WebScraping-TuPerfil (REPOSITORIO EN ETAPA DE PRODUCCIÓN)
 
 **WebScraping-TuPerfil** es una aplicación desarrollada en Python que automatiza el proceso de recolección de datos para la creación de contenido visual destinado a redes sociales del producto (Noticias) de un portal web dedicado al periodismo en Valledupar.
 
@@ -15,7 +15,9 @@
 
 ## Introducción
 
-En el mundo digital actual, la automatización de procesos es crucial para mantenerse al día con la creación de contenido. **WebScraping-TuPerfil** ofrece una solución eficiente para recolectar y organizar datos periodísticos, permitiendo a los creadores de contenido en redes sociales enfocarse en la producción de contenido de calidad.
+En el mundo digital actual, la automatización de procesos es crucial para mantenerse al día con la creación de contenido. **WebScraping-TuPerfil** ofrece una solución eficiente para recolectar y organizar datos periodísticos desde una web alojada en WordPress, permitiendo a los creadores de contenido en redes sociales enfocarse en la producción de contenido de calidad.
+
+**NOTA:** Un posible proyecto futuro a partir de esto sería desarrollar algun programa en python que a partir de la informacion obtenida de este WebScrapin y con el uso de la API de Canva pueda ayudar a la generacion de las imagenes o contenido a partir de las noticias para las redes sociales del portal web.
 
 ## Características
 
@@ -93,7 +95,7 @@ Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consult
 
 Para más información o preguntas, por favor contacta a:
 
-- **Nombre**: Cesar
-- **Email**: [tuemail@dominio.com](mailto:tuemail@dominio.com)
+- **Nombre**: Cesar Prieto
+- **Email**: [tuemail@dominio.com](mailto:ceprieto@unal.edu.co)
 
 ¡Gracias por tu interés en **WebScraping-TuPerfil**!
